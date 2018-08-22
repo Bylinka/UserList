@@ -106,7 +106,7 @@
     </TypeIdentifier>
   </Typedef>
   <Typedef Name="PersonItem" Collapsed="true">
-    <Position X="1" Y="1.25" Width="3.25" />
+    <Position X="0.5" Y="1.25" Width="3.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Users.cpp</FileName>
@@ -120,7 +120,7 @@
     </TypeIdentifier>
   </Typedef>
   <Typedef Name="CmdItem" Collapsed="true">
-    <Position X="1" Y="0.5" Width="3.25" />
+    <Position X="0.5" Y="0.5" Width="3.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Users.cpp</FileName>
